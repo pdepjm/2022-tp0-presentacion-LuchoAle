@@ -2,7 +2,7 @@
 
 ## Estudiante: Luciano Alejo Rodriguez
 
-## Bio: Buenas, soy Lucho y tengo 19 años. Me encanta programar pero ademas soy un apasionado por la música, toco el piano y la guitarra hace varios años.
+###### 👋 Buenas, soy Lucho y tengo 19 años. Me encanta programar pero ademas soy un apasionado por la música, toco el piano y la guitarra hace varios años.
 
 ![mi foto](fotoperfil.jpg)
 
